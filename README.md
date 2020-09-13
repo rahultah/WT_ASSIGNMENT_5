@@ -1,5 +1,8 @@
 # PHP_CRUD_Operation
 
+LINK FOR ALL ASSIGNMENTS: - https://rahultahprojects.000webhostapp.com/
+LIVE WEBSITE: - https://rahultahprojects.000webhostapp.com/wtass5/index.php
+
 To Execute this application just start the Xampp web server.
 Execute index.php file in the browser at locahost.
 
