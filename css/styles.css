@@ -1,0 +1,45 @@
+
+.d-flex button{
+    margin: 1.5em;
+    padding: 0.5em 2.4em;
+}
+.row-header{
+    margin: 0px auto;
+    padding: 0px;
+    color: floralwhite;
+    background: #9575CD ;
+
+}
+.jumbotron{
+    background: #9575CD ;
+    padding:70px 30px 70px 30px;
+    margin:0px auto
+
+}
+.row-content {
+    margin:0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height:400px;
+}
+.footer{
+    background-color: #D1C4E9;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+}
+body{
+    padding: 50px 0px 0px 0px;
+}
+.navbar-dark{
+    background-color: #512DA8;
+}
+.success{
+    background-color: lawngreen;
+    padding: 2em;
+}
+.error{
+    background-color: red;
+    padding: 2em;
+}
+
+
